@@ -1,1 +1,2 @@
 # -Classified-Arabic-handwritten-characters-using-deep-learning-CNN-.
+Arabic is a language with unique writing, written from right to left. The cursive nature of Arabic script and the numerous variations in letter forms make identifying handwritten characters a difficult problem. The goal is to develop a neural network model to accurately classify individual character images into corresponding Arabic characters.
